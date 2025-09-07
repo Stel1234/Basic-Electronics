@@ -79,8 +79,6 @@ Button Released & LED dims gradually & Inductor releases stored energy to keep c
 \section*{Proteus Simulation (if any)}
 If Proteus software was used, the simulation screenshot of the circuit is shown below:  
 
-\begin{center}
-    \includegraphics[width=0.8\textwidth]{image.png} % Replace with actual simulation image
 \begin{figure}
     \centering
     \includegraphics[width=0.5\linewidth]{image.png}
